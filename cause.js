@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "Du bist so ein toller Mensch und ich freue mich so auf die Zeit die wir noch zusammen verbringen können🥰", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "Hab einen richtig tollen Tag💕 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Ich hoffe alle deine Wünsche gehen in erfüllung ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Bleib bitte immer so wie du bist und hab eine perfektes Lebensjahr 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
