@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "Ich hoffe alle deine Wünsche gehen in Erfüllung💖";
+const greetingText = "Ich hoffe, dieser Tag ist genauso besonders wie du 💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
