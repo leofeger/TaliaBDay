@@ -76,7 +76,7 @@ function displayNewReason() {
                 duration: 0.5,
                 ease: "elastic.out",
                 onComplete: () => {
-                    shuffleButton.textContent = "click here... 💖";
+                    shuffleButton.textContent = "click hier";
                     shuffleButton.classList.add('story-mode');
                     shuffleButton.addEventListener('click', () => {
                         gsap.to('body', {
